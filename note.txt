@@ -1,0 +1,6 @@
+# สร้าง banch จาก main หลัก
+git checkout -b feature/structure-build
+
+# สร้างไฟล์ Notepad
+type nul > note.txt
+
